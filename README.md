@@ -3,6 +3,17 @@
 ## 3rd Year Group Project (sem 2)
 <br>
 
+
+<li>AIm : To get Glycemic index and Glycemic Load. Using this Information Diabatic Patients will know, eating that food will be good for health or not </li>
+
+
+
+## Technology Used
+<li> Firebase - To store data of Users</li>
+<li> Neural Networks - CNN algorithm to Detect the food item</li>
+
+
+
 ## Flow of Android App
 ![image](https://user-images.githubusercontent.com/45332512/130639585-c0877171-f050-420f-92f9-38f66dda2de5.png)
 
