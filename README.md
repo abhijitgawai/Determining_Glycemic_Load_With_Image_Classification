@@ -3,7 +3,7 @@
 ## 3rd Year Group Project (sem 2)
 <br>
 
-
+# Patent is Filed For Project [view](http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021106125#)
 <li>AIm : To get Glycemic index and Glycemic Load. Using this Information Diabatic Patients will know, eating that food will be good for health or not </li>
 
 
