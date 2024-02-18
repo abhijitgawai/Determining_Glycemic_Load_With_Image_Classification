@@ -12,7 +12,11 @@
 <li> Firebase - To store data of Users</li>
 <li> Neural Networks - CNN algorithm to Detect the food item</li>
 
+<br>
 
+![Poster_Btech](https://github.com/abhijitgawai/Determining_Glycemic_Load_With_Image_Classification/assets/45332512/9ec9fd62-89ff-4ff8-b1ae-0834b7fd31f2)
+
+<br>
 
 ## Flow of Android App
 ![image](https://user-images.githubusercontent.com/45332512/130639585-c0877171-f050-420f-92f9-38f66dda2de5.png)
